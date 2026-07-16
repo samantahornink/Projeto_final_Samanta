@@ -21,7 +21,6 @@ Esta é uma API desenvolvida em Python utilizando o microframework **Flask** e a
 
 Para que a API funcione corretamente de forma local, certifique-se de que o arquivo do dataset esteja na mesma pasta do seu script principal:
 
-```text
 ├── seu_script.py
 └── dataset_carros_usados.csv
 Nota: O arquivo dataset_carros_usados.csv deve conter as colunas: ano, quilometragem, motor, num_revisoes e preco.
