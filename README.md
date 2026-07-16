@@ -1,8 +1,4 @@
-Aqui está o seu `README.md` formatado corretamente com a sintaxe do Markdown aplicada aos blocos de código, subtítulos e listas.
 
-Você pode copiar o bloco abaixo e colar diretamente no seu arquivo:
-
-```markdown
 # 🚗 API de Previsão de Preços de Carros Usados
 
 Esta é uma API desenvolvida em Python utilizando o microframework **Flask** e a biblioteca **scikit-learn**. Ela treina um modelo de Regressão Linear baseado em dados históricos de veículos e expõe um endpoint para prever o preço de um carro com base em suas características.
